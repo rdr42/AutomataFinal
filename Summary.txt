@@ -1,0 +1,52 @@
+Summary:
+
+ 1st Half of Semester:
+ 
+  Regular Languages(Theory of computation Book):
+  -We have DFAs, which are equivalent to NFAs
+  -DFA and NFA can be described by reg expression
+  -They are closed under union,intersection,star,complement
+  -Proved pumping lemma...  
+  
+  Context-Free Languages(Theory of computation Book):
+  -Where do we have context free grammars
+  -CFG into Chomsky Normal Form
+  -Non-Deterministic push down automata accepting cfg
+  -Deterministic Push Down Automata -> Bison/yacc
+  
+  Church-Turing Thesis(Theory of computation Book):
+  -Every computational process that is intuitivelu am algorithm
+  can be converted to a turing machine:
+    -Java/C/C++/Lamda Calc
+  -Gödelization: Bijection between Turing Machine and the set of natural numbers
+    -Any n in N can be written in binary...
+
+  With Turing Machine we see that(Theory of computation Book):
+  -Multiple tapes are useless
+  -Certain Languages cannot be decided
+  -Certain real numbers cannot be computed
+  -Certain languages cannot be decided and enumerable
+  -The class of all languages is not countable
+  -The class of all enumerable languages is countable
+  -Rice's theorem: Nothing really interesting about languages can be decided (Turing Machines).
+  
+  Divide and Conquer Concept:
+  -Talked about concept being applied to variety of problems
+  
+  Data Structures:
+  -Hash Tables
+  
+  String Matching:
+  -Chapter 32, Page 985:
+    -Naive Algorithm
+    -Rabin Karp
+    -Knuth Morris Pratt
+    
+  Complexity(Theory of computation Book):
+  -Complexity class P and NP
+  -Non deterministic Algorithms
+  -NP Complete Languages
+  
+  
+  
+  
